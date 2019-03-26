@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TP01_CarlosAlberto</string>
+    <string name="add_email">E-mail</string>
+    <string name="add_nome">Nome</string>
+    <string name="add_numero">Número</string>
+    <string name="criar_contato">Criar Contato</string>
+    <string name="parte1">Adicionar Contato</string>
+    <string name="parte2">Redes Sociais</string>
+    <string name="facebook_app_id">408787349687458</string>
+    <string name="fb_login_protocol_scheme">fb408787349687458</string>
+</resources>
